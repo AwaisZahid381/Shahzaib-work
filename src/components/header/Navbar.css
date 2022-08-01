@@ -1,0 +1,42 @@
+.mainNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.ThisSpan{
+    color: royalblue;
+}
+.otherMat{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1vmax;
+    width: 70%;
+}
+.listing{
+    display: flex;
+    flex-direction: row;
+}
+.linkies{
+    margin: 0 1vmax;
+    text-decoration: none;
+    color: navy;
+}
+.profile{
+    display: flex;
+    width: 7%;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction:row ;
+}
+.images{
+    height: 2.2vmax;
+    width: 2vmax;
+    border-radius: 40px;
+}
+ul li{
+    text-decoration: none;
+    list-style: none;
+}
